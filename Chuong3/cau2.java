@@ -59,12 +59,3 @@ public class cau2 {
 
 
 
-// bai tap cần làm: Bài số 3, 4.
-// Note: Có thể làm thêm bài số 5.
-
-// lớp - đối tượng
-// biết cách tạo đối tượng
-// constructor.
-// Dùng Setter/Getter.
-// Method.
-// atribute.
